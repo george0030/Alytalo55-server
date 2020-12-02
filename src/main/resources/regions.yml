@@ -1,0 +1,15 @@
+#In order for changes to come in effect, please restart the server
+#Add more cuboids by adding a subtag, named cuboid<number>
+#Each cuboid must have a pair of xyz-coordinates.
+
+weather-area:
+  cuboid1:
+accessible-area:
+  cuboid1:
+    x1:
+    y1:
+    z1:
+    x2:
+    y2:
+    z2:
+

@@ -1,0 +1,20 @@
+name: Alytalo55
+version: ${project.version}
+main: me.hihii55.alytalo55.AlytaloMain
+authors: [hihii55]
+description: Minecraft-älytalon serveripuoli. Tehty ICT-lukion lopputyötä varten v. 2018
+commands:
+  alytalo:
+    description: Sisältää kaikki pluginin komennot
+    aliases: aly
+    usage: Invalid command. Try /alytalo edit
+    permission: alytalo55.command
+    permission-message: ""
+permissions:
+  alytalo55.command:
+    description: Sallii komentojen käytön
+    default: op
+
+
+
+

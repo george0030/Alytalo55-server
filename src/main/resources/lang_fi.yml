@@ -1,0 +1,19 @@
+THERMOMETER_LINE0: "§c§lTEMPERATURE"
+THERMOMETER_LINE1: "§1§l{T} °C"
+THERMOMETER_LINE2: "§oMeasured: §r§o§5{H}:{M}"
+THERMOMETER_LINE3: "§a§o§ailmatieteenlaitos.fi"
+
+BAROMETER_LINE0: "§1§lAIR PRESSURE:"
+BAROMETER_LINE1: "§8§l{T} hPa"
+BAROMETER_LINE2: "§oMeasured: §r§5§o{H}:{M}"
+BAROMETER_LINE3: "§a§oilmatieteenlaitos.fi"
+
+PRECIPITATION_LINE0: "§9§lPRECIPITATION 1h:"
+PRECIPITATION_LINE1: "§3§l{T} mm/m²"
+PRECIPITATION_LINE2: "§o§r§5§o{H2}:{M2}-{H}:{M}"
+PRECIPITATION_LINE3: "§a§oilmatieteenlaitos.fi"
+
+POTENTIOMETER_LINE0: "§c§lPOTENTIOMETER"
+POTENTIOMETER_LINE1: "§4§l{T}"
+POTENTIOMETER_LINE2: "§a******************"
+POTENTIOMETER_LINE3: "§a******************"

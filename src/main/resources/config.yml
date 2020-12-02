@@ -1,0 +1,21 @@
+default-lang: fi
+
+weather-query-url: "http://opendata.fmi.fi/wfs?service=WFS&version=2.0.0&request=getFeature&storedquery_id=fmi::observations::weather::simple&place="
+weather-townname:
+weather-interval: 180000
+store-old-weather-data: 12
+local-timezone: "Europe/Helsinki"
+rain-threshold: 99.0
+winter: false
+max-precipitation: 6.0
+lunar-month-duration: 2551442800
+first-full-moon: 1540399500000
+astronomy-query-url: "https://api.sunrise-sunset.org/json?"
+astronomy-retry-interval-minutes: 10
+latitude: "60.419230"
+longitude: "22.307683"
+
+talo55-provider-address: 192.168.1.5
+talo55-port: 6761
+
+doorbell-cooldown: 5000
